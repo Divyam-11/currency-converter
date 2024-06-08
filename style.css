@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+    background-color: #F39237;
+    border: 10px solid #1C77C3;
+    padding: 5rem;
+}
+#fcurrency{
+    margin: 0.3rem;
+    text-align: center;
+    padding: 0.1rem;
+}
+.heading{
+   
+}
+body p{
+    margin: 1rem;
+    font-size: 2rem;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+        
+    background-color: #40BCD8;
+}
+.labels{
+    margin: 0.5rem  ;
+    display: flex;
+
+    justify-content: space-evenly;
+}
+.froms{
+    display: flex;
+    flex-direction: column;
+}
+.tos{
+    display: flex;
+    flex-direction: column;
+}
